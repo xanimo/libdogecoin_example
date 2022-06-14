@@ -1,0 +1,1 @@
+# libdogecoin_example
